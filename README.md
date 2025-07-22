@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Favio Cabral</h1>
+<h3 align="center">Fullstack Developer | Data Analyst | Automatización con IA</h3>
 
-<!--
-**faviocabral/faviocabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faviocabral&label=Profile%20views&color=0e75b6&style=flat" alt="faviocabral" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+- 🔭 Estoy trabajando en proyectos que combinan **automatización con IA, WhatsApp API y n8n** para gestión de pedidos.
+- 📊 Creo dashboards dinámicos en **React y Power BI**, conectados a APIs o datos JSON.
+- 🧠 Aplico inteligencia artificial para mejorar flujos de trabajo y toma de decisiones.
+- ⚙️ Desarrollo soluciones **fullstack** usando JavaScript, Node.js y SQL Server.
+- 📫 Contacto: **faviocabral@gmail.com**
+
+---
+
+### 🚀 Tech Stack
+
+```bash
+💻 Lenguajes: JavaScript, TypeScript, SQL, Python
+🌐 Frontend: React, TailwindCSS, Bootstrap, Chart.js
+🖥️ Backend: Node.js, Express, n8n, Webhooks, CloudConvert API
+🧩 Automatización: n8n (local & cloud), WhatsApp API (Evolution API)
+🛢️ Bases de datos: SQL Server, PostgreSQL, Redis
+📊 BI / Data: Power BI, Knex.js, JSON data processing
+☁️ Cloud & DevOps: Easypanel, Docker, GitHub Actions

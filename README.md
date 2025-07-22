@@ -27,3 +27,5 @@
 🛢️ Bases de datos: SQL Server, PostgreSQL, Redis
 📊 BI / Data: Power BI, Knex.js, JSON data processing
 ☁️ Cloud & DevOps: Easypanel, Docker, GitHub Actions
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faviocabral&show_icons=true&theme=dracula" alt="faviocabral stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faviocabral&layout=compact&theme=dracula" alt="top langs" /> </p>

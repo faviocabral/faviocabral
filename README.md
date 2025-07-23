@@ -42,3 +42,11 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=MongoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=SQLite&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=Strapi&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-E43B2C?style=for-the-badge&logo=Sanity&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white)
 
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-61DAFB?style=for-the-badge&logo=React%20Testing%20Library&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-0078D6?style=for-the-badge&logo=Virtual%20Machines&logoColor=white) ![Parallels](https://img.shields.io/badge/Parallels-333333?style=for-the-badge&logo=Parallels&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)

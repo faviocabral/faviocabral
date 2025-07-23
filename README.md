@@ -27,6 +27,7 @@
 🛢️ Bases de datos: SQL Server, PostgreSQL, Redis, MongoDB, Supabase
 📊 BI / Data: Power BI, Knex.js, JSON data processing
 ☁️ Cloud & DevOps: Easypanel, Docker, GitHub Actions
+```` ``` ````.
 
 ### Front-end
 
